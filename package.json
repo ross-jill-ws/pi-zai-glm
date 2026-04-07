@@ -1,7 +1,15 @@
 {
-  "name": "pi-extra-llm",
+  "name": "pi-zai-glm",
   "version": "0.1.0",
   "description": "Extra LLM providers for pi (Z.ai GLM).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ross-jill-ws/pi-zai-glm.git"
+  },
+  "homepage": "https://github.com/ross-jill-ws/pi-zai-glm#readme",
+  "bugs": {
+    "url": "https://github.com/ross-jill-ws/pi-zai-glm/issues"
+  },
   "keywords": [
     "pi-package",
     "llm",
