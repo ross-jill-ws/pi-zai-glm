@@ -1,6 +1,6 @@
 {
   "name": "pi-zai-glm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extra LLM providers for pi (Z.ai GLM).",
   "repository": {
     "type": "git",
